@@ -1,0 +1,2 @@
+# splitwise cashflow minimizer
+ 
