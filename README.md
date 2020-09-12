@@ -1,3 +1,3 @@
 # splitwise cashflow minimizer
  
-Given a group expense this project minimizes the number of transactions to be carried out in order to settle all the deals. it uses the heap datastructure to achieve it .
+Developed an application which minimises the number of transactions in a group expense using heaps.
